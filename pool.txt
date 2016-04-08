@@ -7,3 +7,4 @@ flags --cl-global-work 16384 --cl-local-work 256 --farm-recheck 200
 globalfan 75
 globalpowertune 30
 globalcore 1200
+globalmem 1500
