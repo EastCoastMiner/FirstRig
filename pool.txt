@@ -8,3 +8,4 @@ globalfan 75
 globalpowertune 50
 globalcore 1150
 globalmem 1500
+pwr aeccdb 20 20 20
