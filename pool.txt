@@ -9,3 +9,5 @@ globalpowertune 50
 globalcore 1150
 globalmem 1500
 pwr aeccdb 20 20 20
+cor aeccdb 1100 1100 1100 1100
+mem aeccdb 1600 1600 1600 1600
