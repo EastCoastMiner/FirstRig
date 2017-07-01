@@ -1,6 +1,6 @@
 maxgputemp 90
 stratumproxy enabled
-proxywallet 0x8c29FDCaC0805b29fB7587ee9ff5114CdBFCe116
+proxywallet 0x839B77eF8c6d59F0d28f4514be20A92cc94F10C7
 proxypool1 eu1.ethermine.org:4444
 proxypool2 eu2.ethermine.org:4444
 flags --cl-global-work 16384 --cl-local-work 256 --farm-recheck 200
