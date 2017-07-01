@@ -8,8 +8,8 @@ globalfan 75
 globalpowertune 50
 globalcore 1150
 globalmem 1500
-pwr 88e45c 50 0 0 50 50
-cor 88e45c 1150 1100 1100 1150 1150
+pwr 88e45c 50 0 50 50 50
+cor 88e45c 1150 1100 1150 1150 1150
 mem 88e45c 1500 1500 1500 1500 1500
 loc 954bee No1
 loc 88e45c PRig
