@@ -1,3 +1,4 @@
+globalminer claymore-zcash
 maxgputemp 90
 stratumproxy enabled
 proxywallet GQ773MDKaJcS2aBvWKea5uiipREPb4gp1R
