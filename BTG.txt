@@ -1,0 +1,10 @@
+maxgputemp 90
+stratumproxy enabled
+proxywallet GQ773MDKaJcS2aBvWKea5uiipREPb4gp1R
+proxypool1 eu.pool.gold:3044
+proxypool2 rus.pool.gold:3044
+flags -i 4
+globalfan 75
+globalpowertune 50
+globalcore 1025
+globalmem 1500
