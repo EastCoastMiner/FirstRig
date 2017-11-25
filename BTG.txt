@@ -7,5 +7,5 @@ proxypool2 rus.pool.gold:3044
 flags -i 4
 globalfan 75
 globalpowertune 50
-globalcore 1025
+globalcore 1040
 globalmem 1500
