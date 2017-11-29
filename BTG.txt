@@ -6,5 +6,5 @@ proxypool1 eu.pool.gold:3044
 proxypool2 rus.pool.gold:3044
 flags -i 4
 globalpowertune 50
-globalcore 1060
+globalcore 1100
 globalmem 1500
